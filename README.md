@@ -1,6 +1,7 @@
-# Online-roles
-Hello all! My name is @Riyaadh2108 "Riyaadh"
-I am a Talent Partner currently partnered with OnBuy.com - one of the UK's leading e-Commerce platforms! 📈 This repository is intended to provide UK-based Tech professionals with a one-stop spot to see our latest opportunities, and to sharewith you any exciting new Tools / Features & Products we intend to implement.
+**Roles at OnBuy.com
+**
+*Hello all! My name is @Riyaadh2108 "Riyaadh"
+I am a Talent Partner currently partnered with OnBuy.com - one of the UK's leading e-Commerce platforms! 📈 This repository is intended to provide UK-based Tech professionals with a one-stop spot to see our latest opportunities, and to sharewith you any exciting new Tools / Features & Products we intend to implement.*
 
 Job opportunities at OnBuy.com
 https://apply.workable.com/onbuy/
