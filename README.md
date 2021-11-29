@@ -6,4 +6,4 @@ This repository is intended to provide UK-based Tech professionals with a one-st
 
 ## Live Roles Available now! 💼
 All roles are permanent and fully remote, providing you live and have the right to work in the UK.
--[Scrum Master] https://apply.workable.com/onbuy/j/813638A28A/
+-[Scrum Master].(https://apply.workable.com/onbuy/j/813638A28A/)
