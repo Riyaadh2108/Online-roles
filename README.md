@@ -11,3 +11,6 @@ All roles are permanent and fully remote, providing you live and have the right 
 
 -[Product Manager](https://apply.workable.com/onbuy/j/5BEB84AAD1/)
 
+-[DBA (Senior)](https://apply.workable.com/onbuy/j/B775C72408/)
+
+-[DBA (Mid Level)](https://apply.workable.com/onbuy/j/2F4FB01E22/)
