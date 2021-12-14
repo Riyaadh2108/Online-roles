@@ -7,14 +7,13 @@ This repository is intended to provide UK-based Tech professionals with a one-st
 ## Live Roles Available now! 💼
 All roles are permanent and fully remote, providing you live and have the right to work in the UK.
 
--[Scrum Master](https://www.onbuy.com/gb/careers/scrum-master/)
+-[Scrum Master](https://apply.workable.com/onbuy/j/813638A28A/)
 
--[Product Manager](https://www.onbuy.com/gb/careers/product-manager/)
+-[Product Manager](https://apply.workable.com/onbuy/j/5BEB84AAD1/)
 
--[DBA (Senior)](https://www.onbuy.com/gb/careers/database-administrator-mysql/)
+-[DBA (Senior)](https://apply.workable.com/onbuy/j/B775C72408/)
 
--[DBA (Mid Level)](https://www.onbuy.com/gb/careers/database-administrator-mysql-mid/)
-
+-[DBA (Mid Level)](https://apply.workable.com/onbuy/j/2F4FB01E22/)
 ## Who are OnBuy? 🌐
 Since being awarded as the **'eCommerce Company of the Year'** at the 2020 UK Business Tech Awards, we have gone on to raise £35 million in a Series A+ funding round and have quickly become recognised as being one of the fastest-growing eCommerce companies in the world. 
 
